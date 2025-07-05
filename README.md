@@ -63,8 +63,8 @@ Ini adalah aplikasi web personal berbasis **PHP**, **MySQL**, dan **Tailwind CSS
 1. Clone atau download repository ini.
 2. Jalankan **XAMPP** lalu aktifkan **Apache dan MySQL**.
 3. Import file `db_nama_npm.sql` ke **phpMyAdmin**.
-4. Pindahkan folder project di `htdocs/`. Pindahkan folder ini ke `htdocs/` yang ada di Local Disk (C;) pilih Xamp, htdocs kemudian di sini baru pindahkan foldernya (seperti: `Personal_syiva julianti_D1A240011`).
-5. Akses melalui browser :  localhost/personal_syiva ayu julianti_D1A240011/
+4. Pindahkan folder ini ke `htdocs/` yang ada di Local Disk (C;) setelah itu pilih Xamp, htdocs, kemudian di sini baru pindahkan foldernya (seperti: `Personal_syiva julianti_D1A240011`).
+5. Akses melalui browser, untuk melihat hasil:  localhost/personal_syiva ayu julianti_D1A240011/
 
 ---
 
