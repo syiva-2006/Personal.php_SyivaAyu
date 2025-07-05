@@ -54,7 +54,7 @@ Ini adalah aplikasi web personal berbasis **PHP**, **MySQL**, dan **Tailwind CSS
 ![Form Artikel](screenshots/halaman_Login.png)
 
 ### 🔹 Halaman Login (dengan DarkMode)
-![Dark Mode](screenshots/halaman_Login_DarkMode.png
+![Dark Mode](screenshots/halaman_Login_DarkMode.png)
 
 ---
 
