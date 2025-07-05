@@ -13,7 +13,7 @@ Ini adalah aplikasi web personal berbasis **PHP**, **MySQL**, dan **Tailwind CSS
 - ✅ Fitur Pencarian Artikel 🔍
 - ✅ Fitur Pencarian Gallery 🔍
 - ✅ Fitur Menambah komentar (yang ada di halaman Artikel)
-- ✅ Mode Gelap (Dark Mode 🌙)
+- ✅ Fitur Mode Gelap (Dark Mode 🌙)
 - ✅ Galeri foto (upload & tampil, edit, hapus)
 - ✅ Halaman About (tentang saya)
 - ✅ Dashboard Admin (statistik jumlah data)
