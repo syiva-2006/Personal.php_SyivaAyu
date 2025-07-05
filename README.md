@@ -71,6 +71,7 @@ Ini adalah aplikasi web personal berbasis **PHP**, **MySQL**, dan **Tailwind CSS
 
 ## 📂 Struktur Folder Project
 
+```
 Personal_nama_npm
 ├── index.php
 ├── gallery.php 
@@ -119,6 +120,7 @@ Personal_nama_npm
 │ ├── halaman_Login DarkMode.png
 │ ├── halaman_Login.png
 └── README.md
+```
 
 ---
 
